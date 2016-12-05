@@ -97,6 +97,7 @@
 					DA3778201C3300C400A4268C = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 3576WDCD7W;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -254,6 +255,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "home.sizing-it-up";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -265,6 +267,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "home.sizing-it-up";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -287,6 +290,7 @@
 				DA3778351C3300C400A4268C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
